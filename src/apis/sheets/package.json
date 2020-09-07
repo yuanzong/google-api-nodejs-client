@@ -1,6 +1,6 @@
 {
-  "name": "@google/sheets",
-  "version": "0.1.0",
+  "name": "cl-google-sheets",
+  "version": "60.0.0",
   "description": "sheets",
   "main": "build/index.js",
   "types": "build/index.d.ts",

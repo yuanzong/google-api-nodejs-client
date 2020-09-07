@@ -1,6 +1,6 @@
 {
-  "name": "@google/calendar",
-  "version": "0.1.0",
+  "name": "cl-google-calendar",
+  "version": "60.0.0",
   "description": "calendar",
   "main": "build/index.js",
   "types": "build/index.d.ts",
